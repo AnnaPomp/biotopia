@@ -5,3 +5,5 @@
 # **Diagrama UML- closeup**
 Am adăugat un UML al jocului pentru a vizualiza și organiza structura internă a jocului, incluzând clasele și relațiile dintre ele. Prin acest lucru, doresc să facilitez înțelegerea interacțiunilor dintre diferitele componente, cum ar fi plantele, fertilizatorii și modul de asimilare al cunoștințelor. UML-ul ajută la o dezvoltare mai eficientă și o întreținere mai ușoară pe măsură ce jocul evoluează.
 
+![Diagramă UML](umldiagram/1.png)
+
