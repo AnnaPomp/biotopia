@@ -14,5 +14,5 @@ Am adăugat un UML al jocului pentru a vizualiza și organiza structura internă
 ![Diagramă UML7](umldiagram/7.png)
 ![Diagramă UML8](umldiagram/8.png)
 ![Diagramă UML9](umldiagram/9.png)
-![Diagramă UML_ Macheta Finală](umldiagram/Screenshot2025-03-19181415.png)
+
 
