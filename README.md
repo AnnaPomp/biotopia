@@ -16,3 +16,19 @@ Am adăugat un UML al jocului pentru a vizualiza și organiza structura internă
 ![Diagramă UML9](umldiagram/9.png)
 
 
+#  Manual de instalare și rulare – Proiect Unity cu backend PHP + MySQL
+
+##  Cerințe
+
+- [Unity Hub + Unity (versiunea folosită în proiect)](https://unity.com/)
+- [XAMPP](https://www.apachefriends.org/ro/index.html) sau alt server local (cu **Apache** și **MySQL**)
+- Un editor de text (ex: VS Code) pentru a edita fișierele PHP și SQL
+- Git (opțional pentru clonare)
+
+
+git clone https://github.com/NUME-UTILIZATOR/NUME-REPO.git
+
+
+
+
+
