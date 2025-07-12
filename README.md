@@ -1,34 +1,42 @@
-# **Ecotopia - Educational Game**
+# EcoTopia 
+## Funcționalități Educaționale
+ *Pentru elevi:*
+- Participă la simulări ecologice interactive
+- Primesc feedback vizual instant (oraș verde/poluat)
+- Învață din lecții vizuale și textuale
+- Rezolvă teste grilă cu scor salvat automat
 
-**Ecotopia** este un joc educativ destinat celor care doresc să învețe despre biodiversitate, ecologie și chimie într-un mod interactiv și captivant. Explorează o lume virtuală plină de organisme, plante, ecosisteme și chimie, în timp ce înveți cum funcționează viața pe Pământ!
+ *Pentru profesori:*
+- Creează, editează și organizează lecții și întrebări
+- Generează teste personalizate pentru elevi
+- Creează clase și monitorizează scorurile elevilor
+- Exportă rezultatele în format Excel
 
-#  **Diagrama UML- closeup** 
-Am adăugat un UML al jocului pentru a vizualiza și organiza structura internă a jocului, incluzând clasele și relațiile dintre ele. Prin acest lucru, doresc să facilitez înțelegerea interacțiunilor dintre diferitele componente, cum ar fi plantele, fertilizatorii și modul de asimilare al cunoștințelor. UML-ul ajută la o dezvoltare mai eficientă și o întreținere mai ușoară pe măsură ce jocul evoluează.
+---
 
-![Diagramă UML1](umldiagram/1.png)
-![Diagramă UML2](umldiagram/2.png)
-![Diagramă UML3](umldiagram/3.png)
-![Diagramă UML4](umldiagram/4.png)
-![Diagramă UML5](umldiagram/5.png)
-![Diagramă UML6](umldiagram/6.png)
-![Diagramă UML7](umldiagram/7.png)
-![Diagramă UML8](umldiagram/8.png)
-![Diagramă UML9](umldiagram/9.png)
+##  Tehnologii Folosite
 
+ Unity (C#)  
+ MySQL + PHP (bază de date)  
+ Export Excel (note & scoruri)  
+ pathfinding 
+ UI personalizat pentru elevi și profesori
 
-#  Manual de instalare și rulare – Proiect Unity cu backend PHP + MySQL
+---
 
-##  Cerințe
+## Cum îl rulezi
 
-- [Unity Hub + Unity (versiunea folosită în proiect)](https://unity.com/)
-- [XAMPP](https://www.apachefriends.org/ro/index.html) sau alt server local (cu **Apache** și **MySQL**)
-- Un editor de text (ex: VS Code) pentru a edita fișierele PHP și SQL
-- Git (opțional pentru clonare)
+1️⃣ Descarcă aplicația (sau proiectul Unity)  
+2️⃣ Conectează-te ca elev sau profesor  
+3️⃣ Navighează prin lecții, alegeri, teste  
+4️⃣ (Dev) Editează `DBManager.cs` pentru conexiunea MySQL  
 
-
-git clone https://github.com/NUME-UTILIZATOR/NUME-REPO.git
-
+---
 
 
+Codul poate fi folosit și modificat cu menționarea autorului.  
 
 
+---
+
+*#educatie #jocuri #ecologie #unity #romania #edtech*
