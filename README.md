@@ -29,7 +29,7 @@
 1️⃣ Descarcă aplicația (sau proiectul Unity)  
 2️⃣ Conectează-te ca elev sau profesor  
 3️⃣ Navighează prin lecții, alegeri, teste  
-4️⃣ (Dev) Editează `DBManager.cs` pentru conexiunea MySQL  
+
 
 ---
 
