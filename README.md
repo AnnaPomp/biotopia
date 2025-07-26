@@ -79,6 +79,20 @@ Link-uri utile:[https://drive.google.com/drive/folders/1XfBhbcaveDR_LlVjHGNdrAUO
  ---
 
  ![Diagrama UML](umldiagram/1.png)
+ 
+ ![Diagrama UML](umldiagram/2.png)
+ 
+ ![Diagrama UML](umldiagram/3.png)
+ 
+ ![Diagrama UML](umldiagram/4.png)
+ 
+ ![Diagrama UML](umldiagram/5.png)
+ 
+ ![Diagrama UML](umldiagram/6.png)
+ 
+ ![Diagrama UML](umldiagram/7.png)
+ 
+ ![Diagrama UML](umldiagram/8.png)
 
 
 
