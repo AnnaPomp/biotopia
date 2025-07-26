@@ -1,5 +1,5 @@
 # EcoTopia 
-EcoTopia este o aplicație educațională inovatoare care transformă învățarea despre ecologie într-o experiență interactivă și vizuală.
+ EcoTopia este o aplicație educațională inovatoare care transformă învățarea despre ecologie într-o experiență interactivă și vizuală.
 Elevii învață prin simulări și alegeri reale, văzând consecințele ecologice în timp real asupra unui oraș virtual.
 Aplicația dezvoltă gândirea critică, implicarea civică și conștiința de mediu într-un mod captivant.
 Profesorii pot crea și edita lecții, întrebări și teste direct în joc, fără cunoștințe tehnice.
