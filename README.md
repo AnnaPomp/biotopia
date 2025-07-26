@@ -77,8 +77,8 @@ Link-uri utile:[https://drive.google.com/drive/folders/1XfBhbcaveDR_LlVjHGNdrAUO
   Conturile de profesor și elev sunt diferite ca funcționalitate, pentru a evita confuzia și pentru a păstra structura organizată.
  
  ---
- 
 
+ ![Diagrama UML](images/1.png)
 
 
 
