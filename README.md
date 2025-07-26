@@ -78,7 +78,7 @@ Link-uri utile:[https://drive.google.com/drive/folders/1XfBhbcaveDR_LlVjHGNdrAUO
  
  ---
 
- ![Diagrama UML](images/1.png)
+ ![Diagrama UML](umldiagram/1.png)
 
 
 
