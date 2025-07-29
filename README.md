@@ -54,7 +54,8 @@ Rezultatele pot fi analizate pe clase, oferind feedback concret pentru profesori
 ### 4. Felicitări acum proiectul este funcțional și pe dispozitivul tău! Distracție plăcută!
 
 Link-uri utile:[https://drive.google.com/drive/folders/1XfBhbcaveDR_LlVjHGNdrAUO7t4jn2uH?usp=drive_link]
-##Link documentație##:[https://docs.google.com/document/d/1zlbEwQTRsabV007BzqbzmKZdBEunulrIVDJs7HbiT-8/edit?usp=drive_link]
+Link documentație##:[https://docs.google.com/document/d/1zlbEwQTRsabV007BzqbzmKZdBEunulrIVDJs7HbiT-8/edit?usp=drive_link]
+
 
 ---
 
